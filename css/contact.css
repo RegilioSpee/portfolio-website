@@ -346,3 +346,10 @@ footer {
     font-size: auto;
   }
 }
+
+/* Recaptcha styling begin */
+.g-recaptcha {
+  width: 304px;
+  margin: 0 auto;
+}
+/* Recaptcha styling eind */
