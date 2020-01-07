@@ -333,10 +333,51 @@ ul {
 #boxes .box {
   float: left;
   text-align: center;
-  width: 30%;
+  width: 20%;
   padding: 10px;
 }
 
 #boxes .box img {
   width: 90px;
+}
+
+/* Styling van icons start */
+.fab {
+  font-size: 75px;
+}
+
+.box #js {
+  color: #e8c931;
+}
+
+.box #css {
+  color: #264de4;
+}
+
+.box #php {
+  color: #777bb3;
+}
+
+.box #html {
+  color: #e44d26;
+}
+
+.box #adobe {
+  color: #ed1c24;
+}
+
+.icon #git {
+  color: #33383b;
+}
+
+.icon-title {
+  font-size: 28px;
+  margin-bottom: 4px;
+  color: rgb(182, 182, 182);
+  font-weight: lighter;
+}
+/* Styling van icons eind */
+
+hr {
+  margin: 8px;
 }
