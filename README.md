@@ -11,6 +11,6 @@ Eerste week is het volgende gedaan:
 * [Planning opgesteld in Jira](https://regilio.atlassian.net/secure/RapidBoard.jspa?rapidView=3&projectKey=RPW&selectedIssue=RPW-1&atlOrigin=eyJpIjoiY2MwN2Y4N2YyYTg4NDMyOTllZTg0NzI1ZTQxNDAwZTUiLCJwIjoiaiJ9)
 * (Nieuwe afbeeldingen in de library toegevoegd)
 * (Visueel ontwerp in Adobe XD)
-* (Styleboard)
+* [Styleboard](https://xd.adobe.com/view/ddb96480-3558-4ae1-5ad0-39f86eb7023e-ab88/?fullscreen)
 
 *Resultaten zijn te vinden op de klikbare links
