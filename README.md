@@ -8,7 +8,7 @@ Vanaf vandaag ben ik van start gegaan om de huidige portfoliowebsite een update 
 De eerste week ben ik begonnen met het opzetten van mijn planning voor de website, wat ik kan realiseren binnen de eerste week, wat ik er bij ga gebruiken en meer.
 
 Eerste week is het volgende gedaan:
-* Planning opgesteld in Jira
+* [Planning opgesteld in Jira](https://regilio.atlassian.net/secure/RapidBoard.jspa?rapidView=3&projectKey=RPW&selectedIssue=RPW-1&atlOrigin=eyJpIjoiY2MwN2Y4N2YyYTg4NDMyOTllZTg0NzI1ZTQxNDAwZTUiLCJwIjoiaiJ9)
 * (Nieuwe afbeeldingen in de library toegevoegd)
 * (Visueel ontwerp in Adobe XD)
 * (Styleboard)
