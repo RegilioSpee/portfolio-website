@@ -1,7 +1,7 @@
 # Regilio Spee | Portfolio website
 
 Deze repository weergeeft mijn progressie van de portfoliowebsite die als het online visitekaartje dient voor mij.
-Vanaf vandaag ben ik van start gegaan om de huidige portfoliowebsite een update te geven!
+Vanaf vandaag (10 juni) ben ik van start gegaan om de huidige portfoliowebsite een update te geven!
 
 ### Progressie (in weken)
 #### Week 1 
