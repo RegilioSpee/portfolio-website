@@ -14,3 +14,7 @@ Eerste week is het volgende gedaan:
 * [Styleboard](https://xd.adobe.com/view/ddb96480-3558-4ae1-5ad0-39f86eb7023e-ab88/?fullscreen)
 
 *Resultaten zijn te vinden op de klikbare links
+
+
+#### Week 1 
+De tweede week ben ik nog gaan werken aan het verbeteren van mijn visuele ontwerp, de homepagina is bijna voltooid. Het is deels vertraagd aangezien deze week het K_ID examenproject opgeleverd moet worden.
