@@ -16,5 +16,9 @@ Eerste week is het volgende gedaan:
 *Resultaten zijn te vinden op de klikbare links
 
 
-#### Week 1 
+#### Week 2 
 De tweede week ben ik nog gaan werken aan het verbeteren van mijn visuele ontwerp, de homepagina is bijna voltooid. Het is deels vertraagd aangezien deze week het K_ID examenproject opgeleverd moet worden.
+
+
+#### Week 3
+Voor deze week geldt hetzelfde als de week ervoor, ik heb het nu erg druk met Pokimoto (een examenproject voor k_mod) dus heb ik niet veel kunnen doen.
