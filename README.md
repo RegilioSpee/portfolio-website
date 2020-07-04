@@ -22,3 +22,7 @@ De tweede week ben ik nog gaan werken aan het verbeteren van mijn visuele ontwer
 
 #### Week 3
 Voor deze week geldt hetzelfde als de week ervoor, ik heb het nu erg druk met Pokimoto (een examenproject voor k_mod) dus heb ik niet veel kunnen doen.
+
+
+### Week 4
+Sinds ik mijn 2 examenprojecten met succes heb kunnen afronden kan ik weer een vervolg maken aan mijn portfoliowebsite. Hiernaast werk ik ook samen met een vriend (Lucas) aan een website waar wij zelf diensten/producten zullen aanbieden.
