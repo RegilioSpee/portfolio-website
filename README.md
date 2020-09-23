@@ -27,3 +27,6 @@ Voor deze week geldt hetzelfde als de week ervoor, ik heb het nu erg druk met Po
 ### Week 4
 Sinds ik mijn 2 examenprojecten met succes heb kunnen afronden kan ik weer een vervolg maken aan mijn portfoliowebsite. Hiernaast werk ik ook samen met een vriend (Lucas) aan een website waar wij zelf diensten/producten zullen aanbieden.
 Ook heb ik mijn [CV](https://github.com/RegilioSpee/portfolio-website/blob/master/img/cv-regilio-spee.pdf) kunnen vernieuwen aangezien dit nodig was.
+
+### Vakantie update
+Sinds we ook zomervakantie hebben ben ik niet alleen maar bezig kunnen zijn met mijn portfoliowebsite en het project samen met Lucas. Dus bij deze bevestig ik dat het vervolg gestart wordt vanaf volgende week.
